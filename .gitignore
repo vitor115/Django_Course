@@ -1,6 +1,21 @@
+.vscode
+
+last_deployed_at
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.bi.sqlite3
+db.pbsc.sqlite3
+db.appexternal.sqlite3
+media
 *.pyc
 *~
-__pycache__
+__pycache__/
 db.sqlite3
 /static
 .DS_Store
